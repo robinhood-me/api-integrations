@@ -1,0 +1,15 @@
+# IntelliJ IDEA-specific files
+.idea/
+
+# Exclude compiled Java classes and log files (if applicable)
+*.class
+*.log
+
+# Exclude IntelliJ-related artifacts and caches
+*.iml
+out/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
